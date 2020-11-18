@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+
+.title {
+    margin-top: 5%;
+    padding: 3%;
+    text-align: center;
+    font-size: 30px;   
+    color: tomato;
+    background-color: bisque;
+}
+
+.container {
+    margin-top: 5%;
+    padding: 3%;
+    width: 100%;
+    background-color: bisque;
+}
+
+#cronometro {
+    width: 100%;
+    font-size: 50px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.buttons {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#comenzar , #reiniciar {
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+.texto {
+    font-size: 18px;
+    padding: 3%;
+    
+}
+
+#manejado {
+    margin-top: 20px;
+    text-align: center;
+    color: red;
+    font-size: 25px;
+}
